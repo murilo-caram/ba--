@@ -58,7 +58,14 @@ nav > a:hover {
     transition-duration: 0.1s;
 }
 main {
-    max-width: 800px;
-    margin: auto;
+    background-color: #ff9f9c;
 }
+article {
+    max-width: 800px;
+    min-width: 300px;
+    margin: auto;
+    background-color: white;
+    padding: 30px;
+}
+
 
