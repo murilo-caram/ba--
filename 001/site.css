@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Oswald:wght@200..700&display=swap');
+
 :root {
 
     --cor0: #FA514B;
@@ -8,6 +10,9 @@
     --cor3: #AD3834;
     --cor4: #8B2D2A;
     --cor5: #692220;
+    --cor6: #B69143;
 
-    --font-1:
+    --font-0:  Arial, Helvetica, sans-serif;
+    --font-1:  'Orbitron', cursive;
+    --font-2:  'Oswald', cursive;
 }
