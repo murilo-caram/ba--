@@ -58,7 +58,7 @@ nav > a:hover {
     transition-duration: 0.1s;
 }
 main {
-    background-color: #ff9f9c;
+   background-image: url(imgs/teste\ de\ fundo.png);
 }
 article {
     max-width: 800px;
