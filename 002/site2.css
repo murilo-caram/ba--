@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+:root {
+    --cor1: #6C510D;
+    --cor2: #8E6B11;
+    --cor3: #B08415;
+    --cor4: #D29E19;
+    --cor5: #F4B71D;
+    --cor6: #FCBE1E;
+
+    --font-padrao: Arial, Helvetica, sans-serif;
+    --font-h1: FRL;
+}
+
+@font-face {
+    font-family: 'FRL';
+    src: url(fonts/Sunday\ Best\ ttf.ttf) format(treutype);
+}
+
+*{
+    margin: 0px;
+}
+
+
+
