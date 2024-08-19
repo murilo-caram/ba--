@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+}
+
+.f {
+    position: relative;
+    height: 340px;
+    width: 280px;
+    background-color: lightskyblue;
+    margin: auto;
+
+}
+.d {
+    position: absolute;
+    height: 300px;
+    width: 245px;
+    background-color: lightgoldenrodyellow;
+    margin: auto;
+    
+    
+    transform: translate(+15px, +0px);
+    
+    
+}
+
+div {
+    height: 250px;
+    width: 200px;
+    background-color: black;
+    transform: translate(+12%, +0%);
+}
+
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: darkred;
+    
+}
